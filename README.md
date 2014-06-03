@@ -1,4 +1,10 @@
-ssrs-non-native-functions
+SSRS Non-native Functions
 =========================
 
-A demonstration of how to implement some non-native functionality, such as pin-to-bottom in to SSRS.
+A demonstration of how to implement some non-native functionality in to SSRS, including:
+
+* Internationalisation (language and page size, number formats, etc)
+* Pin-to-Bottom
+* Data-driven header/footer
+* Page X within Groups
+* Page X of Y within Groups
